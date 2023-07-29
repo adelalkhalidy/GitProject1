@@ -19,3 +19,4 @@ public class DemoDay2 {
 	public static void add(double a , double b){
 		System.out.println(a+b);
 }
+}
